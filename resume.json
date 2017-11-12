@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "Elisiário Couto",
+    "label": "Software Developer/Systems Administrator",
+    "picture": "",
+    "email": "elisiario.f.couto@gmail.com",
+    "phone": "+351 915 359 087",
+    "website": "",
+    "summary": "Loves to help others, open source projects, command line tools, design, tinkering and beautiful visualizations.",
+    "location": {
+      "address": "Travessa de Vila Verde, 186",
+      "postalCode": "4475-243 Castêlo da Maia",
+      "city": "Maia",
+      "countryCode": "PT",
+      "region": "Porto"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "elisiariocouto",
+        "url": "https://github.com/elisiariocouto"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "elisiariocouto",
+        "url": "https://linkedin.com/in/elisiariocouto"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Movvo",
+      "position": "Software Developer/Deployment Engineer/Systems Administrator",
+      "website": "",
+      "startDate": "2014-07-03",
+      "endDate": "2017-11-30",
+      "summary": "In 2014 AroundKnowledge went through a rebrand. Movvo's product was the same as AroundKnowledge's with a focus on scalability. Thermal sensors were integrated into the system to increase the accuracy. Artificial Intelligence, Machine Learning and Natural Language Processing features were introduced in 2017.",
+      "highlights": [
+        "Containerized micro-services written in golang.",
+        "Orchestration using CoreOS and later Mesos.",
+        "Custom micro-services monitoring solution using InfluxDB and Grafana.",
+        "Logging infrastructure using Graylog.",
+        "Hardware and network configuration for on-premises Virtual Machine hosts.",
+        "Terraform for managing the whole infrastructure.",
+        "Ansible for full provisioning.",
+        "Custom Virtual Machines monitoring solution using netdata and Docker.",
+        "On-field deployment of sensors and sensor networks.",
+        "Advocate for continuous testing, integration and deployment.",
+        "Experience in Agile methodologies."
+      ]
+    },
+    {
+      "company": "AroundKnowledge",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "2013-02-19",
+      "endDate": "2014-07-03",
+      "summary": "Founded in 2009, AroundKnowledge was a company that provided a business analytics platform. It utilized a sensor network that captured anonymized radio signals from people's mobile phones and was able to generate key performance indicators from where the system was installed, such as how many people visited a shopping mall or how many time do they spent there.",
+      "highlights": [
+        "Wi-Fi packet capturing software in C with MQTT protocol support.",
+        "Custom-built OpenWRT/LEDE distribution for the sensors with multiple bash script tools to provide easy installation, configuration and maintenance.",
+        "Cassandra clusters deployment.",
+        "Backend micro-services written in Python."
+      ]
+    },
+    {
+      "company": "DataBits",
+      "position": "Web Developer/Blogger",
+      "website": "",
+      "startDate": "2009-07-01",
+      "endDate": "2013-12-01",
+      "summary": "DataBits was a technology news website. It was built using WordPress.org and the main focus was technology news articles written in Portuguese in a non-technical vocabulary. This personal project grew to become economically self-sustained.",
+      "highlights": [
+        "Complete WordPress configuration with a custom theme.",
+        "Regular writing experience."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Stanford University",
+      "area": "Machine Learning",
+      "studyType": "Complementary (Coursera)",
+      "startDate": "2017-10-01",
+      "endDate": "2017-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Berkeley, University of California",
+      "area": "Foundations of Computer Graphics",
+      "studyType": "Complementary (edX)",
+      "startDate": "2012-11-01",
+      "endDate": "2012-12-17",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Instituto Superior de Engenharia do Porto",
+      "area": "Computer Engineering",
+      "studyType": "Degree",
+      "startDate": "2009-09-01",
+      "endDate": "2013-09-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portuguese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Advanced"
+    }
+  ]
+}
