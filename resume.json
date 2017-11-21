@@ -33,7 +33,7 @@
       "position": "Software Developer/Deployment Engineer/Systems Administrator",
       "website": "",
       "startDate": "2014-07-03",
-      "endDate": "2017-11-30",
+      "endDate": "2017-11-20",
       "summary": "In 2014 AroundKnowledge went through a rebrand. Movvo's product was the same as AroundKnowledge's with a focus on scalability. Thermal sensors were integrated into the system to increase the accuracy. Artificial Intelligence, Machine Learning and Natural Language Processing features were introduced in 2017.",
       "highlights": [
         "Containerized micro-services written in golang.",
@@ -100,7 +100,7 @@
       "area": "Computer Engineering",
       "studyType": "Degree",
       "startDate": "2009-09-01",
-      "endDate": "2013-09-01",
+      "endDate": "2013-10-22",
       "gpa": "",
       "courses": []
     }
