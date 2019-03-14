@@ -29,6 +29,21 @@
   },
   "work": [
     {
+      "company": "Jscrambler",
+      "position": "DevOps Engineer and Systems Administrator",
+      "website": "https://jscrambler.com/",
+      "startDate": "2017-11-27",
+      "summary": "Jscrambler is a technology company that specialized in a client-side security solution for JavaScript applications. Code Integrity, one of the modules, performs Polymorphic Javascript obfuscation, code traps, self-defending abilities and real-time notifications in case of attempts to inspect the application. The Webpage Integrity module monitors and protects the application against code injections, Man-in-the-Browser attacks, DOM-tampering and data exfiltration.",
+      "highlights": [
+        "Provisioning and management of the infrastructure, including on-premises Hypervisors, Bare Metals and Virtual Machines using tools such as Terraform and Ansible.",
+        "Responsible for the uptime of the platform.",
+        "Full infrastructure monitoring from a system-level to an application-level.",
+        "Advocate for automation including CI Pipelines focusing on security and performance.",
+        "Daily-basis interaction with Docker containers and container orchestration tools.",
+        "Configuration and management of HTTP servers, databases and load balancers."
+      ]
+    },
+    {
       "company": "Movvo",
       "position": "Software Developer/Deployment Engineer/Systems Administrator",
       "website": "",
@@ -40,9 +55,9 @@
         "Orchestration using CoreOS and later Mesos.",
         "Custom micro-services monitoring solution using InfluxDB and Grafana.",
         "Logging infrastructure using Graylog.",
-        "Hardware and network configuration for on-premises Virtual Machine hosts.",
-        "Terraform for managing the whole infrastructure.",
-        "Ansible for full provisioning.",
+        "Hardware and network configuration for on-premises VMware ESXi hosts.",
+        "Terraform for managing the whole infrastructure including Cloud instances, on-premises Virtual Machines and DNS records.",
+        "Ansible for machine provisioning.",
         "Custom Virtual Machines monitoring solution using netdata and Docker.",
         "On-field deployment of sensors and sensor networks.",
         "Advocate for continuous testing, integration and deployment.",
@@ -55,12 +70,12 @@
       "website": "",
       "startDate": "2013-02-19",
       "endDate": "2014-07-03",
-      "summary": "Founded in 2009, AroundKnowledge was a company that provided a business analytics platform. It utilized a sensor network that captured anonymized radio signals from people's mobile phones and was able to generate key performance indicators from where the system was installed, such as how many people visited a shopping mall or how many time do they spent there.",
+      "summary": "Founded in 2009, AroundKnowledge was a company that provided a business analytics platform. It used a sensor network that captured anonymized radio signals from people's mobile phones and was able to generate key performance indicators from where the system was installed, such as how many people visited a shopping mall or how many time do they spent there.",
       "highlights": [
         "Wi-Fi packet capturing software in C with MQTT protocol support.",
-        "Custom-built OpenWRT/LEDE distribution for the sensors with multiple bash script tools to provide easy installation, configuration and maintenance.",
-        "Cassandra clusters deployment.",
-        "Backend micro-services written in Python."
+        "Custom-built OpenWRT/LEDE distribution for the sensors with multiple bash script utilities to provide easy installation, configuration and maintenance.",
+        "Cassandra clusters deployment and maintenance.",
+        "Backend micro-services written in Python 2 and 3."
       ]
     },
     {
