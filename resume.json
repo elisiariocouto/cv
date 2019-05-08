@@ -5,12 +5,9 @@
     "picture": "",
     "email": "elisiario.f.couto@gmail.com",
     "phone": "+351 915 359 087",
-    "website": "",
+    "website": "https://couto.xyz/",
     "summary": "Loves to help others, open source projects, command line tools, design, tinkering and beautiful visualizations.",
     "location": {
-      "address": "Travessa de Vila Verde, 186",
-      "postalCode": "4475-243 Castêlo da Maia",
-      "city": "Maia",
       "countryCode": "PT",
       "region": "Porto"
     },
@@ -24,6 +21,11 @@
         "network": "LinkedIn",
         "username": "elisiariocouto",
         "url": "https://linkedin.com/in/elisiariocouto"
+      },
+      {
+        "network": "Spotify",
+        "username": "elisiariocouto",
+        "url": "https://open.spotify.com/user/1166660141"
       }
     ]
   },

@@ -1,3 +1,5 @@
 public/
 node_modules/
 package-lock.json
+jsonresume-theme-elegant/
+*.pdf

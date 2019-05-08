@@ -2,32 +2,22 @@
 
 Used [JSON Resume](https://jsonresume.org) with Elegant theme.
 
----
-
 ### Instructions
 
-###### Install JSON Resume
+##### Install JSON Resume
 
 `npm install resume-cli`
 
-JSON Resume Themes Server appears to be down, workaround is to install the theme from NPM.
+JSON Resume Themes Server appears to be down, workaround is to install the theme from NPM and move it to the base folder.
 
-`npm install jsonresume-theme-elegant`
+`npm install jsonresume-theme-elegant && mv node_modules/jsonresume-theme-elegant .`
 
-###### Test Schema
+##### Test Schema
 
 `resume test`
 
-###### Start HTTP server to preview
+##### Generate `index.html`
 
-`resume serve`
-
-###### Generate `index.html`
-
-`resume --format html --theme elegant`
+`resume --format html --theme elegant index.html`
 
 Commit and push to `gh-pages` branch to host on GitHub Pages.
-
-###### Generate PDF
-
-`resume --format pdf --theme elegant`
