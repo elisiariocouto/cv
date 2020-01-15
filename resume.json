@@ -31,10 +31,18 @@
   },
   "work": [
     {
+      "company": "Didimo",
+      "position": "Infrastructure Engineer",
+      "website": "https://mydidimo.com/",
+      "startDate": "2019-07-01",
+      "summary": "Didimo automates all stages of 3D characters creation process. From a single selfie or a face scan, Didimo is able to produce an high fidelity model, fully rigged and ready to be integrated in any 3D application."
+    },
+    {
       "company": "Jscrambler",
       "position": "DevOps Engineer and Systems Administrator",
       "website": "https://jscrambler.com/",
       "startDate": "2017-11-27",
+      "endDate": "2019-06-21",
       "summary": "Jscrambler is a technology company that specialized in a client-side security solution for JavaScript applications. Code Integrity, one of the modules, performs Polymorphic Javascript obfuscation, code traps, self-defending abilities and real-time notifications in case of attempts to inspect the application. The Webpage Integrity module monitors and protects the application against code injections, Man-in-the-Browser attacks, DOM-tampering and data exfiltration.",
       "highlights": [
         "Provisioning and management of the infrastructure, including on-premises Hypervisors, Bare Metals and Virtual Machines using tools such as Terraform and Ansible.",
