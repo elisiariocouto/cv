@@ -8,9 +8,9 @@ Used [JSON Resume](https://jsonresume.org) with Elegant theme.
 
 `npm install resume-cli jsonresume-theme-elegant`
 
-##### Test Schema
+##### Validate Schema
 
-`resume test`
+`resume validate`
 
 ##### Generate `index.html`
 

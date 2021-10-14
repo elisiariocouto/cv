@@ -1,11 +1,12 @@
 {
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Elisiário Couto",
     "label": "Developer, DevOps Engineer and Systems Administrator",
-    "picture": "",
+    "image": "",
     "email": "elisiario.f.couto@gmail.com",
     "phone": "+351 915 359 087",
-    "website": "https://couto.xyz/",
+    "url": "https://couto.xyz/",
     "summary": "Loves to help others, open source projects, command line tools, design, tinkering and beautiful visualizations.",
     "location": {
       "countryCode": "PT",
@@ -31,16 +32,26 @@
   },
   "work": [
     {
-      "company": "Didimo",
+      "name": "Didimo",
       "position": "Infrastructure Engineer",
-      "website": "https://mydidimo.com/",
+      "url": "https://www.didimo.co/",
       "startDate": "2019-07-01",
-      "summary": "Didimo automates all stages of 3D characters creation process. From a single selfie or a face scan, Didimo is able to produce an high fidelity model, fully rigged and ready to be integrated in any 3D application."
+      "summary": "Didimo automates all stages of 3D characters creation process. From a single selfie with optional depth data, Didimo is able to produce an high fidelity model, fully rigged and ready to be integrated in any 3D application.",
+      "highlights": [
+        "Provisioning and management of the whole infrastructure, including bare-metal servers and AWS resources.",
+        "Redesign micro-services architecture and containerize core components.",
+        "Micro-services orchestration with Rancher.",
+        "Introduction of auto-scaling features that enabled serving multiple versions of the product and/or serve a specific version to a specific client.",
+        "Migration to GitLab and introduction of CI/CD processes to most of the repositories.",
+        "Internal processes automation.",
+        "Development of a client-facing CLI to interact with Didimo's API.",
+        "Daily work with Ansible, Terraform and Packer."
+      ]
     },
     {
-      "company": "Jscrambler",
+      "name": "Jscrambler",
       "position": "DevOps Engineer and Systems Administrator",
-      "website": "https://jscrambler.com/",
+      "url": "https://jscrambler.com/",
       "startDate": "2017-11-27",
       "endDate": "2019-06-21",
       "summary": "Jscrambler is a technology company that specialized in a client-side security solution for JavaScript applications. Code Integrity, one of the modules, performs Polymorphic Javascript obfuscation, code traps, self-defending abilities and real-time notifications in case of attempts to inspect the application. The Webpage Integrity module monitors and protects the application against code injections, Man-in-the-Browser attacks, DOM-tampering and data exfiltration.",
@@ -54,9 +65,9 @@
       ]
     },
     {
-      "company": "Movvo",
+      "name": "Movvo",
       "position": "Software Developer/Deployment Engineer/Systems Administrator",
-      "website": "",
+      "url": "",
       "startDate": "2014-07-03",
       "endDate": "2017-11-20",
       "summary": "In 2014 AroundKnowledge went through a rebrand. Movvo's product was the same as AroundKnowledge's with a focus on scalability. Thermal sensors were integrated into the system to increase the accuracy. Artificial Intelligence, Machine Learning and Natural Language Processing features were introduced in 2017.",
@@ -75,9 +86,9 @@
       ]
     },
     {
-      "company": "AroundKnowledge",
+      "name": "AroundKnowledge",
       "position": "Software Developer",
-      "website": "",
+      "url": "",
       "startDate": "2013-02-19",
       "endDate": "2014-07-03",
       "summary": "Founded in 2009, AroundKnowledge was a company that provided a business analytics platform. It used a sensor network that captured anonymized radio signals from people's mobile phones and was able to generate key performance indicators from where the system was installed, such as how many people visited a shopping mall or how many time do they spent there.",
@@ -89,9 +100,9 @@
       ]
     },
     {
-      "company": "DataBits",
+      "name": "DataBits",
       "position": "Web Developer/Blogger",
-      "website": "",
+      "url": "",
       "startDate": "2009-07-01",
       "endDate": "2013-12-01",
       "summary": "DataBits was a technology news website. It was built using WordPress.org and the main focus was technology news articles written in Portuguese in a non-technical vocabulary. This personal project grew to become economically self-sustained.",
@@ -108,7 +119,7 @@
       "studyType": "Complementary (Coursera)",
       "startDate": "2017-10-01",
       "endDate": "2017-12-31",
-      "gpa": "",
+      "score": "",
       "courses": []
     },
     {
@@ -117,7 +128,7 @@
       "studyType": "Complementary (edX)",
       "startDate": "2012-11-01",
       "endDate": "2012-12-17",
-      "gpa": "",
+      "score": "",
       "courses": []
     },
     {
@@ -126,7 +137,7 @@
       "studyType": "Degree",
       "startDate": "2009-09-01",
       "endDate": "2013-10-22",
-      "gpa": "",
+      "score": "",
       "courses": []
     }
   ],
@@ -143,5 +154,10 @@
       "language": "Spanish",
       "fluency": "Advanced"
     }
-  ]
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
 }
