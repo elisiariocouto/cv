@@ -3,9 +3,7 @@
   "basics": {
     "name": "Elisiário Couto",
     "label": "Developer, DevOps Engineer and Systems Administrator",
-    "image": "",
-    "email": "",
-    "phone": "",
+    "image": "https://secure.gravatar.com/avatar/6d966626543f1f90b2365b9d0ffd1238?size=600",
     "url": "https://couto.xyz/",
     "summary": "Loves to help others, open source projects, command line tools, design, tinkering and beautiful visualizations.",
     "location": {
@@ -32,10 +30,17 @@
   },
   "work": [
     {
+      "name": "Metric4",
+      "position": "Cloud Engineer",
+      "url": "https://www.metric4.io/",
+      "startDate": "2021-12-01"
+    },
+    {
       "name": "Didimo",
       "position": "Infrastructure Engineer",
       "url": "https://www.didimo.co/",
       "startDate": "2019-07-01",
+      "endDate": "2021-12-01",
       "summary": "Didimo automates all stages of 3D characters creation process. From a single selfie with optional depth data, Didimo is able to produce an high fidelity model, fully rigged and ready to be integrated in any 3D application.",
       "highlights": [
         "Provisioning and management of the whole infrastructure, including bare-metal servers and AWS resources.",
