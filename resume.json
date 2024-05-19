@@ -2,9 +2,9 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Elisiário Couto",
-    "label": "Developer, DevOps Engineer and Systems Administrator",
+    "label": "Developer, Cloud and Infastructure Engineer",
     "image": "https://secure.gravatar.com/avatar/6d966626543f1f90b2365b9d0ffd1238?size=600",
-    "url": "https://couto.xyz/",
+    "url": "https://couto.io/",
     "summary": "Loves to help others, open source projects, command line tools, design, tinkering and beautiful visualizations.",
     "location": {
       "countryCode": "PT",
@@ -30,10 +30,30 @@
   },
   "work": [
     {
-      "name": "Metric4",
+      "name": "Worten",
       "position": "Cloud Engineer",
+      "url": "https://www.worten.pt/",
+      "startDate": "2021-12-01",
+      "summary": "Part of the Sonae group, Worten is a Portuguese retailer of electronics and home appliances.",
+      "highlights": [
+        "Development of a self-service internal deployment tool that manages the whole lifecycle of the applications, from infrastructure provisioning and micro-services deployment to monitoring, alerting and scaling.",
+        "Introduction of Backstage as the internal developer platform, significantly improving development and system visibility and operational efficiency.",
+        "Daily interaction with Terraform, AWS products like ECS, EKS, Lambda.",
+        "Migration to a Zero Trust architecture, improving security and reducing the attack surface.",
+        "FinOps advocate, reducing costs and improving resource utilization through capacity management automation with proactive monitoring and suggestions.",
+        "Promotion of DevOps culture and practices."
+      ]
+    },
+    {
+      "name": "Metric4",
+      "position": "Partner and Developer",
       "url": "https://www.metric4.io/",
-      "startDate": "2021-12-01"
+      "startDate": "2021-12-01",
+      "summary": "Metric4 uses IoT, sensors, and advanced software to optimize operations and enhance safety. Our data-driven approach empowers businesses to make informed decisions for a smarter, more connected future. Additionally, we offer expert IT consultancy services.",
+      "highlights": [
+        "Interaction with LoRaWAN networks and sensors.",
+        "Ultra-wideband (UWB) tailor-made worker-safety solutions."
+      ]
     },
     {
       "name": "Didimo",
@@ -146,6 +166,20 @@
       "courses": []
     }
   ],
+  "certificates": [
+    {
+      "name": "GitLab Certified Git Associate",
+      "date": "2021-05-20",
+      "issuer": "GitLab",
+      "url": "https://www.credly.com/badges/daef807e-0587-4d12-abd7-adc420c52721"
+    },
+    {
+      "name": "Foundations of Computer Graphics",
+      "date": "2012-12-21",
+      "issuer": "BerkeleyX",
+      "url": "https://s3.amazonaws.com/verify.edx.org/downloads/8aef389471354ba99fa793a2b7fc2279/Certificate.pdf"
+    }
+  ],
   "languages": [
     {
       "language": "Portuguese",
@@ -161,6 +195,7 @@
     }
   ],
   "meta": {
+    "theme": "jsonresume-theme-elegant",
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
     "lastModified": "2017-12-24T15:53:00"

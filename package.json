@@ -1,0 +1,26 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "Personal CV",
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.16.1",
+    "resumed": "^3.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elisiariocouto/cv.git"
+  },
+  "keywords": [
+    "cv",
+    "resume"
+  ],
+  "author": "Elisiário Couto <elisiario@couto.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elisiariocouto/cv/issues"
+  },
+  "homepage": "https://github.com/elisiariocouto/cv#readme"
+}
