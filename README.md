@@ -1,12 +1,12 @@
 ## CV
 
-Used [JSON Resume](https://jsonresume.org) with Elegant theme.
+Uses [JSON Resume](https://jsonresume.org) with Elegant theme.
 
 ### Instructions
 
-##### Install JSON Resume and Elegant Theme
+##### Install dependencies
 
-`npm install resumed jsonresume-theme-elegant`
+`npm i`
 
 ##### Validate Schema
 

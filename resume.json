@@ -4,7 +4,9 @@
     "name": "Elisiário Couto",
     "label": "Developer, Cloud and Infastructure Engineer",
     "image": "https://secure.gravatar.com/avatar/6d966626543f1f90b2365b9d0ffd1238?size=600",
+    "picture": "https://secure.gravatar.com/avatar/6d966626543f1f90b2365b9d0ffd1238?size=600",
     "url": "https://couto.io/",
+    "website": "https://couto.io/",
     "summary": "Loves to help others, open source projects, command line tools, design, tinkering and beautiful visualizations.",
     "location": {
       "countryCode": "PT",
@@ -20,11 +22,6 @@
         "network": "LinkedIn",
         "username": "elisiariocouto",
         "url": "https://linkedin.com/in/elisiariocouto"
-      },
-      {
-        "network": "Spotify",
-        "username": "elisiariocouto",
-        "url": "https://open.spotify.com/user/1166660141"
       }
     ]
   },
